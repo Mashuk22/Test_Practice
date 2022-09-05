@@ -1,0 +1,4 @@
+*.gb
+*.log
+/target
+/bin
